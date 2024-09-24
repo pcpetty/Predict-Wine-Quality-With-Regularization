@@ -40,6 +40,12 @@ The dataset is preprocessed to convert the quality scores into a binary classifi
 - **Regularization Impact**: L2 regularization effectively reduced the influence of less important features, leading to a more robust and interpretable model.
 - **Optimal Regularization Strength**: Moderate regularization (`C` values around 0.1 to 1) provided the best balance between model complexity and accuracy, preventing overfitting while retaining key information.
 
+## Visualizations
+
+Model Performance vs. Regularization Strength (L2)
+![output_30_57](https://github.com/user-attachments/assets/c5244fc7-2db1-46f4-9af0-cbe1acc3de1a)
+
+
 ## How to Use
 
 1. **Clone the repository:**
